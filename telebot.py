@@ -17,7 +17,7 @@ from get_torrent import get_torrent
 
 
 try:
-  API_KEY = '5689470925:AAEsWQjHO3mhnfPmXFOqg7bQvrkBGfq-vOs'
+  API_KEY = '6887039806:AAGt93HbK_1A8CHja48u5GiirRHRXGtxCbU'
   bot = telebot.TeleBot(API_KEY)
 
   @bot.message_handler(commands=['Download_Movie'])
